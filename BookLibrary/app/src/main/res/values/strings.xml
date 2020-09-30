@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Book Library</string>
+    <string name="empty_text">No Data</string>
+</resources>
