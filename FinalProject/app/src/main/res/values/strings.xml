@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="details_et_model">Model</string>
+    <string name="details_et_color">Color</string>
+    <string name="details_et_dpl">Distance Per Letter</string>
+    <string name="details_et_desc">Description</string>
+</resources>
